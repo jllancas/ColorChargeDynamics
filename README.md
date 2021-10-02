@@ -1,3 +1,5 @@
 # Color Charge Dynamics
 
-<img src="ColorDynamics.gif">
+<p alight="center">
+<img src="ColorDynamics.gif" width="200">
+</p>
