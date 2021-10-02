@@ -1,4 +1,4 @@
-# Color Charge Dynamics
+# Visualization of SU(3) Color Charge Dynamics
 
 <p align="center">
 <img src="ColorDynamics.gif" width="500">
